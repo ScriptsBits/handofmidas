@@ -1,7 +1,5 @@
 ## Review Package
 
-Everything needed to verify the analysis is in the `review_package/` folder.
-
 | File | Contents |
 |---|---|
 | `midas_recommendation.html` | The dashboard itself — open in any browser, all data is baked in |
